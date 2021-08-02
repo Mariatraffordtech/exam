@@ -1,1 +1,2 @@
 doc1 document
+file changed by other developer
